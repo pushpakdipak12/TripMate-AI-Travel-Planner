@@ -1,0 +1,14 @@
+{
+  "pune": "PNQ", "mumbai": "BOM", "delhi": "DEL", "new delhi": "DEL",
+  "bangalore": "BLR", "bengaluru": "BLR", "chennai": "MAA", "hyderabad": "HYD",
+  "kolkata": "CCU", "ahmedabad": "AMD", "jaipur": "JAI", "udaipur": "UDR",
+  "jodhpur": "JDH", "goa": "GOI", "panaji": "GOI", "kochi": "COK",
+  "thiruvananthapuram": "TRV", "trivandrum": "TRV", "varanasi": "VNS",
+  "lucknow": "LKO", "amritsar": "ATQ", "chandigarh": "IXC", "leh": "IXL",
+  "srinagar": "SXR", "dehradun": "DED", "indore": "IDR", "bhopal": "BHO",
+  "nagpur": "NAG", "aurangabad": "IXU", "guwahati": "GAU", "bhubaneswar": "BBI",
+  "visakhapatnam": "VTZ", "tirupati": "TIR", "madurai": "IXM", "mysore": "MYQ",
+  "port blair": "IXZ", "andaman": "IXZ", "bagdogra": "IXB", "darjeeling": "IXB",
+  "surat": "STV", "vadodara": "BDQ", "khajuraho": "HJR", "shimla": "SLV",
+  "dharamshala": "DHM", "kolhapur": "KLH"
+}

@@ -1,0 +1,18 @@
+{
+  "goa": ["Calangute Beach", "Baga Beach", "Fort Aguada", "Basilica of Bom Jesus", "Anjuna Beach", "Chapora Fort", "Fontainhas Latin Quarter", "Se Cathedral", "Palolem Beach", "Dudhsagar Falls"],
+  "jaipur": ["Amber Fort", "Hawa Mahal", "City Palace", "Jantar Mantar", "Nahargarh Fort", "Jal Mahal", "Albert Hall Museum"],
+  "udaipur": ["City Palace", "Lake Pichola", "Jag Mandir", "Saheliyon-ki-Bari", "Fateh Sagar Lake", "Bagore Ki Haveli", "Sajjangarh Monsoon Palace"],
+  "manali": ["Hadimba Temple", "Solang Valley", "Old Manali", "Vashisht Hot Springs", "Mall Road", "Jogini Falls"],
+  "munnar": ["Eravikulam National Park", "Tea Museum", "Mattupetty Dam", "Echo Point", "Top Station", "Attukal Waterfalls"],
+  "shimla": ["The Ridge", "Mall Road", "Jakhoo Temple", "Christ Church", "Kufri"],
+  "delhi": ["Red Fort", "Qutub Minar", "India Gate", "Humayun's Tomb", "Lotus Temple", "Chandni Chowk"],
+  "mumbai": ["Gateway of India", "Marine Drive", "Elephanta Caves", "Chhatrapati Shivaji Terminus", "Juhu Beach"],
+  "agra": ["Taj Mahal", "Agra Fort", "Mehtab Bagh", "Fatehpur Sikri"],
+  "varanasi": ["Dashashwamedh Ghat", "Kashi Vishwanath Temple", "Assi Ghat", "Sarnath"],
+  "rishikesh": ["Laxman Jhula", "Triveni Ghat", "Beatles Ashram", "Neer Garh Waterfall"],
+  "darjeeling": ["Tiger Hill", "Batasia Loop", "Darjeeling Himalayan Railway", "Peace Pagoda"],
+  "pondicherry": ["Promenade Beach", "White Town", "Auroville", "Paradise Beach"],
+  "coorg": ["Abbey Falls", "Raja's Seat", "Dubare Elephant Camp", "Namdroling Monastery"],
+  "ladakh": ["Pangong Lake", "Shanti Stupa", "Leh Palace", "Nubra Valley", "Thiksey Monastery"],
+  "leh": ["Shanti Stupa", "Leh Palace", "Thiksey Monastery", "Hall of Fame Museum", "Magnetic Hill"]
+}

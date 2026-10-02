@@ -1,0 +1,20 @@
+[
+  {"name": "2 people, mid, 450 km", "distance_km": 450,
+   "trip": {"origin": "Pune", "destination": "Goa", "travelers": 2, "travel_style": "mid", "budget_inr": 40000, "days": 4},
+   "allowed": ["Train (3AC)", "Private AC sleeper bus"]},
+  {"name": "1 person, budget, 300 km", "distance_km": 300,
+   "trip": {"origin": "Delhi", "destination": "Jaipur", "travelers": 1, "travel_style": "budget", "budget_inr": 8000, "days": 3},
+   "allowed": ["Train (Sleeper)", "Government bus", "Train (3AC)"]},
+  {"name": "4 people, mid, 280 km", "distance_km": 280,
+   "trip": {"origin": "Bengaluru", "destination": "Coorg", "travelers": 4, "travel_style": "mid", "budget_inr": 60000, "days": 3},
+   "allowed": ["Cab", "Self-drive", "Train (3AC)", "Private AC sleeper bus"]},
+  {"name": "1 person, luxury, 1400 km", "distance_km": 1400,
+   "trip": {"origin": "Mumbai", "destination": "Delhi", "travelers": 1, "travel_style": "luxury", "budget_inr": 100000, "days": 4},
+   "allowed": ["Flight"]},
+  {"name": "2 people, mid, 2100 km, big budget", "distance_km": 2100,
+   "trip": {"origin": "Delhi", "destination": "Kochi", "travelers": 2, "travel_style": "mid", "budget_inr": 150000, "days": 6},
+   "allowed": ["Flight", "Train (3AC)"]},
+  {"name": "2 people, budget, 2100 km, small budget", "distance_km": 2100,
+   "trip": {"origin": "Delhi", "destination": "Kochi", "travelers": 2, "travel_style": "budget", "budget_inr": 30000, "days": 6},
+   "allowed": ["Train (Sleeper)", "Train (3AC)"]}
+]
